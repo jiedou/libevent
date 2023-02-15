@@ -171,3 +171,6 @@ rules.ninja
 
 # clangd
 .cache
+
+#my
+build
